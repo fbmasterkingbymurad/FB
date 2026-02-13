@@ -1,2 +1,9 @@
-(
-)
+{
+    "keys": {
+        "MURAD-KEY-61659228978502": {
+            "expiry": "2026-02-13 17:20:00",
+            "name": "Owner By Developer Murad",
+            "telegram": "@apps_sellar"
+        }
+    }
+}
