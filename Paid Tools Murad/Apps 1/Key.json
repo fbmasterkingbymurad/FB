@@ -149,6 +149,16 @@
             "expiry": "2026-03-19 19:43:00",
             "name": "FAKE MURAD",
             "telegram": "@fakemurad"
+        },
+        "MURAD-KEY-31264767896076": {
+            "expiry": "2026-02-24 20:00:00",
+            "name": "Kabir Don",
+            "telegram": "@kabirsk112"
+        },
+        "MURAD-KEY-18016950520305": {
+            "expiry": "2026-02-24 20:01:00",
+            "name": "Jihad Khan",
+            "telegram": "@jihadkhan512"
         }
     }
 }
