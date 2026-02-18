@@ -189,6 +189,11 @@
             "expiry": "2026-02-24 13:34:00",
             "name": "MD Hridoy",
             "telegram": "@cghridoy"
+        },
+        "MURAD-KEY-225730594600429": {
+            "expiry": "2026-03-20 16:44:00",
+            "name": "FAKEMURAD",
+            "telegram": "@fakemurad"
         }
     }
 }
